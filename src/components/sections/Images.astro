@@ -6,14 +6,24 @@ import CV from "@cv";
 const images = CV.images!;
 ---
 
-<Section className={Astro.props.className} title="Images Gallery">
-  {images?.intro && <p class="font-mono ml-3 text-skin-muted">{images.intro}</p>}
+<Section
+  className={Astro.props.className}
+  title="Images Gallery -  Nothing to see here yet :)"
+>
+  {
+    images?.intro && (
+      <p class="ml-3 font-mono text-skin-muted">{images.intro}</p>
+    )
+  }
   <div
     class="grid grid-cols-1 gap-2 p-2 pt-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4"
   >
     {
       images.list.map(({ image, alt, desc }) => (
-       <div class="relative overflow-hidden rounded-lg border border-skin-hue/20 bg-skin-button-accent/20" style="height: 0; padding-bottom: 100%;">
+        <div
+          class="relative overflow-hidden rounded-lg border border-skin-hue/20 bg-skin-button-accent/20"
+          style="height: 0; padding-bottom: 100%;"
+        >
           <a
             href={image}
             data-fancybox="gallery"

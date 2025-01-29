@@ -7,148 +7,216 @@
     "image": "/avatar.png",
     "email": "hammaadjam@gmail.com",
     "url": "https://www.hammaadjam.com",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "summary": "I specialize in technology with a primary focus on ISP networking. My expertise lies in advanced troubleshooting, complemented by a personal passion for coding.",
     "theme": "red",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Atlanta",
+      "city": "North Atlanta",
+      "countryCode": "US",
+      "region": "Georgia"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "network": "Linkedin",
+        "icon": "ri:linkedin-fill",
+        "username": "Hammaad Jamshed",
+        "url": "https://www.linkedin.com/in/thenetworkdude/"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "Hammaad Jamshed",
+        "url": "https://github.com/0xNull-ops/"
       }
     ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
+
+    "_comment": {
+      "beian": {
+        "mint": "赣ICP备2021005460号-1",
+        "police": "赣公网安备 36010302000349号"
+      }
     }
   },
   "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
-    "list": [
-      {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
-      }
-    ]
+    "intro": "I really enjoy cooking, baking, web Development and i love playing cricket.",
+    "list": []
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "institution": "University of Engineering and Technology, Lahore, Pakistan (UET)",
+      "url": "https://www.uet.edu.pk/",
+      "area": "Bachaelors in Electrical Engineering",
+      "studyType": "Student",
+      "startDate": "2012",
+      "endDate": "2016"
     }
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
+      "name": "JNCIP-SP (Juniper Networks Certified Professional-Service Provider)",
+      "url": "https://www.credly.com/badges/0ff7bf32-94c3-4b28-9024-def186cfbe64/public_url",
+      "issuer": "Juniper"
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
+      "name": "JNCIS-SP (Juniper Networks Certified Specialist-Service Provider)",
+      "url": "https://www.credly.com/badges/dc269e07-019c-4226-b8c9-f0c0fd0b904f/public_url",
+      "issuer": "Juniper"
+    },
+    {
+      "name": "JNCIS-SEC (Juniper Networks Certified Specialist-Security)",
+      "url": "https://www.credly.com/badges/641df012-1802-4ef5-b20b-6fafaac72492/public_url",
+      "issuer": "Juniper"
+    },
+    {
+      "name": "JNCIA-DevOps (Juniper Networks Certified Intenet Associate-DevOps)",
+      "url": "https://www.credly.com/badges/3b892e39-c698-4ffa-9a33-815f353a9c23/public_url",
+      "issuer": "Juniper"
+    },
+    {
+      "name": "JNCDA (Juniper Networks Certified Design Associate))",
+      "url": "https://www.credly.com/badges/816abca9-ed98-4a2f-b22f-53e4795dbafc/public_url",
+      "issuer": "Juniper"
+    },
+    {
+      "name": "JNCIA (Juniper Networks Certified Intenet Associate)",
+      "url": "https://www.credly.com/badges/8c835e70-fef5-485b-ad4a-6cff90819875/public_url",
+      "issuer": "Juniper"
+    },
+    {
+      "name": "CCNA (Cisco Certified Network Associate)",
+      "url": "https://www.credly.com/badges/e5224fb4-3d3d-4fa1-9a4a-f1738c030d68/public_url",
+      "issuer": "Cisco"
+    },
+    {
+      "name": "DEP (DOCSIS Engineering Professional)",
       "url": "",
-      "issuer": "Tencent Cloud"
+      "issuer": "SCTE"
+    },
+    {
+      "name": "Calix Ethernet Specialist Certification",
+      "url": "",
+      "issuer": "Calix"
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
+      "name": "Sparklight",
+      "position": "IP Operations Engineer II",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
+      "location": "US",
+      "url": "https://www.sparklight.com/",
+      "startDate": "2022-07-01",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
-      "highlights": ["Enhanced internal workflow efficiency by 30%."],
+      "summary": "Supporting ISP networking and infrastructure for a Nationwide Network",
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Highest level of support for IP network issues",
+        "Configure, troubleshoot, and deploy Juniper MX, EX, SRX, and Arris CMTS",
+        "Responsible for working with vendors to maintain operational stability of the Core Network",
+        "Work on SolarWinds deployment as a Juniper SME",
+        "Use Python to assist in operational reporting for the Juniper Core",
+        "Collaborate with multiple vendor staff to resolve issues",
+        "Resolve issues on Access and Core networks, including IP, Calix, DOCSIS, Incognito, and Infoblox",
+        "Tools: Kentik, Incognito, Infoblox, ServiceNow, JSI, NetBrain, SolarWinds, and Excel"
       ],
-      "achievements": [
-        "Implemented a cloud drive and verification code system."
-      ],
+
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "Routing": "simple-icons:cisco",
+        "Switching": "simple-icons:junipernetworks",
+        "VLAN": "simple-icons:fortinet",
+        "Firewall": "simple-icons:netapp",
+        "VPN": "simple-icons:ubiquiti",
+        "DNS": "simple-icons:mikrotik",
+        "DHCP": "simple-icons:cisco",
+        "TCP/IP": "simple-icons:junipernetworks",
+        "OSPF": "simple-icons:fortinet",
+        "BGP": "simple-icons:netapp",
+        "Multicast": "mdi:video",
+        "Python": "simple-icons:python",
+        "Calix": "mdi:router-network",
+        "DOCSIS": "mdi:cable-data",
+        "Monitoring": "mdi:monitor",
+        "Microsoft Office": "simple-icons:microsoftoffice",
+        "Word": "mdi:file-word",
+        "Excel": "mdi:file-excel"
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
+      "name": "Hargray Communications",
+      "position": "Network Engineer",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
-      "highlights": ["Completed 95% of project content."],
+      "location": "US",
+      "url": "https://www.hargray.com/",
+      "startDate": "2017-07-01",
+      "endDate": "2022-07-01",
+      "summary": "Network Engineer supporting an ISP in South Carolina and Georgia",
+
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Configured and troubleshot Juniper MX, EX, and SRX series devices",
+        "Performed capacity management and forecasting with network capacity reports using Kentik, Junos Space, and more",
+        "Used Python to create operations reports for the Juniper Core",
+        "Configured and troubleshot technologies like MPLS, BGP, OSPF, Multicast, VPLS, and other major protocols",
+        "Rearchitected IP Core Network from public to private IP implementation to secure the network and reclaim public IP space",
+        "Worked on SolarWinds deployment as a Juniper SME",
+        "Collaborated with other teams including Transport, Voice, and Video",
+        "Performed Junos OS upgrades for MX, EX, and SRX",
+        "F5 LTM: Lead project EOL replacement, maintenance, and troubleshooting",
+        "Worked with Juniper staff and JTAC to resolve issues",
+        "Worked on the Core capacity upgrade to achieve the 100G-200G Core capacity"
       ],
+
       "achievements": ["Ensured smooth project execution."],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "Routing": "simple-icons:cisco",
+        "Switching": "simple-icons:junipernetworks",
+        "VLAN": "simple-icons:fortinet",
+        "Firewall": "simple-icons:netapp",
+        "VPN": "simple-icons:ubiquiti",
+        "TCP/IP": "simple-icons:junipernetworks",
+        "OSPF": "simple-icons:fortinet",
+        "BGP": "simple-icons:netapp",
+        "Multicast": "mdi:video",
+        "Voice": "mdi:microphone",
+        "Python": "simple-icons:python",
+        "DOCSIS": "mdi:cable-data",
+        "Monitoring": "mdi:monitor",
+        "Microsoft Office": "simple-icons:microsoftoffice",
+        "Word": "mdi:file-word",
+        "Excel": "mdi:file-excel"
+      }
+    },
+
+    {
+      "name": "Momentum Telecom",
+      "position": "NOC Engineer",
+      "location_type": "Kennesaw, GA",
+      "location": "US",
+      "url": "https://gomomentum.com/",
+      "startDate": "2016-02-01",
+      "endDate": "2017-05-01",
+      "summary": "Supported network operations and troubleshooting for various ISPs, focusing on routing, security, and network element health.",
+      "responsibilities": [
+        "Isolated and resolved network issues with Juniper and Cisco routers, switches, CMTS, and security devices",
+        "Troubleshot routing issues, including BGP and other IP technologies",
+        "Implemented and troubleshot system configurations for over 100 MSOs in a DOCSIS CMTS environment (Cisco, Arris, and other vendors)",
+        "Resolved network VOIP-related issues for small to medium-sized ISPs",
+        "Troubleshot and isolated DDOS attacks",
+        "Performed proactive network element health checks as part of surveillance activities",
+        "Followed procedures to directly access certain network elements for troubleshooting and validation"
+      ],
+      "skills": {
+        "Routing": "simple-icons:cisco",
+        "Switching": "simple-icons:junipernetworks",
+        "VLAN": "simple-icons:fortinet",
+        "Firewall": "simple-icons:netapp",
+        "TCP/IP": "simple-icons:junipernetworks",
+        "OSPF": "simple-icons:fortinet",
+        "BGP": "simple-icons:netapp",
+        "Multicast": "mdi:video",
+        "DOCSIS": "mdi:cable-data",
+        "Monitoring": "mdi:monitor",
+        "Microsoft Office": "simple-icons:microsoftoffice",
+        "Word": "mdi:file-word",
+        "Excel": "mdi:file-excel"
       }
     }
   ],
@@ -166,50 +234,10 @@
       "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
-      "level": "Expert",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
+      "name": "Python",
+      "icon": "simple-icons:python",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
-    },
-    {
-      "name": "SQL",
-      "icon": "simple-icons:mysql",
-      "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
-    },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Intermediate",
-      "keywords": ["Databases", "File", "Data Storage", "Backend"]
+      "keywords": ["Web Development", "Backend", "Scripting"]
     },
     {
       "name": "Git",
@@ -218,34 +246,10 @@
       "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
-      "name": "GitHub",
-      "icon": "mdi:github",
-      "level": "Expert",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
-    },
-    {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
+      "name": "Astro",
+      "icon": "simple-icons:astro",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
     },
     {
       "name": "Docker",
@@ -254,88 +258,10 @@
       "keywords": ["Virtual Environments", "Backend"]
     },
     {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "IOC"]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Build Tool"]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": ["PHP", "Fullstack", "Frontend"]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": ["Backend", "Cloud Service"]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "Web Server"]
-    },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": ["Desktop App", "Rust", "Webview"]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": ["Desktop App", "Webview"]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": ["Realtime", "Websocket"]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": ["Desktop App", "Webview"]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": ["Scripting", "Automation"]
-    },
-    {
       "name": "Linux",
       "icon": "simple-icons:linux",
       "level": "Intermediate",
       "keywords": ["OS", "Scripting", "Automation"]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "Netlify",
@@ -344,25 +270,165 @@
       "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": ["Cloud Service"]
+      "name": "Routing",
+      "icon": "simple-icons:cisco",
+      "level": "Expert",
+      "keywords": ["Networking", "IP", "BGP"]
     },
     {
-      "name": "Cloudflare Edge Functions",
+      "name": "Switching",
+      "icon": "simple-icons:junipernetworks",
+      "level": "Expert",
+      "keywords": ["Networking", "LAN", "Core"]
+    },
+    {
+      "name": "VLAN",
+      "icon": "simple-icons:fortinet",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Segmentation", "Switching"]
+    },
+    {
+      "name": "Firewall",
+      "icon": "simple-icons:netapp",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Security", "IP"]
+    },
+    {
+      "name": "VPN",
+      "icon": "simple-icons:ubiquiti",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Security", "Remote"]
+    },
+    {
+      "name": "TCP/IP",
+      "icon": "simple-icons:junipernetworks",
+      "level": "Expert",
+      "keywords": ["Networking", "IP", "Communication"]
+    },
+    {
+      "name": "OSPF",
+      "icon": "simple-icons:fortinet",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Routing", "IP"]
+    },
+    {
+      "name": "BGP",
+      "icon": "simple-icons:netapp",
+      "level": "Expert",
+      "keywords": ["Networking", "Routing", "IP"]
+    },
+    {
+      "name": "Multicast",
+      "icon": "mdi:video",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Streaming", "Routing"]
+    },
+    {
+      "name": "DOCSIS",
+      "icon": "mdi:cable-data",
+      "level": "Intermediate",
+      "keywords": ["Networking", "ISP", "Cable"]
+    },
+    {
+      "name": "Monitoring",
+      "icon": "mdi:monitor",
+      "level": "Expert",
+      "keywords": ["Networking", "Infrastructure", "Management"]
+    },
+    {
+      "name": "Microsoft Office",
+      "icon": "simple-icons:microsoftoffice",
+      "level": "Expert",
+      "keywords": ["Software", "Productivity", "Business"]
+    },
+    {
+      "name": "Word",
+      "icon": "mdi:file-word",
+      "level": "Expert",
+      "keywords": ["Software", "Writing", "Documentation"]
+    },
+    {
+      "name": "Excel",
+      "icon": "mdi:file-excel",
+      "level": "Expert",
+      "keywords": ["Software", "Data Analysis", "Reporting"]
+    },
+    {
+      "name": "Voice",
+      "icon": "mdi:microphone",
+      "level": "Intermediate",
+      "keywords": ["Voice", "Communication", "Networking"]
+    },
+    {
+      "name": "DNS",
       "icon": "simple-icons:cloudflare",
       "level": "Expert",
-      "keywords": ["Serverless", "Edge Computing"]
+      "keywords": ["Networking", "DNS", "Internet"]
+    },
+    {
+      "name": "DHCP",
+      "icon": "simple-icons:ubiquiti",
+      "level": "Intermediate",
+      "keywords": ["Networking", "IP", "Automation"]
+    },
+    {
+      "name": "IS-IS",
+      "icon": "simple-icons:junipernetworks",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Routing", "IP"]
+    },
+    {
+      "name": "P-CAP",
+      "icon": "simple-icons:wireshark",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Packet Capture", "Analysis"]
+    },
+    {
+      "name": "SNMP",
+      "icon": "simple-icons:netapp",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Monitoring", "Management"]
+    },
+    {
+      "name": "STP",
+      "icon": "simple-icons:fortinet",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Switching", "Protocol"]
+    },
+    {
+      "name": "ARP",
+      "icon": "simple-icons:junipernetworks",
+      "level": "Expert",
+      "keywords": ["Networking", "Layer 2", "IP"]
+    },
+    {
+      "name": "VRRP",
+      "icon": "simple-icons:fortinet",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Routing", "Redundancy"]
+    },
+    {
+      "name": "VXLAN",
+      "icon": "simple-icons:cisco",
+      "level": "Intermediate",
+      "keywords": ["Networking", "Virtualization", "Overlay"]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "English",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
+      "language": "Urdu",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Punjabi",
       "fluency": "Intermediate"
     }
   ],
@@ -374,44 +440,86 @@
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "On-Request",
       "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
-      "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
-        "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
-      },
+      "name": "Core MPLS Network Deployment",
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "Reimplemented MPLS across the entire IP core, seamlessly integrating BGP, OSPF, and VPLS to enhance network efficiency, scalability, and performance.",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
-      ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+        "🎯 MPLS Re-Deployment – Successfully re-implemented MPLS across the entire IP core to enhance network efficiency and scalability.",
+        "✨ Seamless Routing Integration – Configured and optimized BGP, OSPF, and VPLS to ensure smooth interoperability and dynamic route management.",
+        "😄 Improved Network Performance – Enhanced traffic engineering and redundancy, reducing latency and improving data flow across the core network.",
+        "🚀 Scalability & Reliability – Strengthened the network infrastructure to support future growth while maintaining high availability and fault tolerance."
+      ]
     },
     {
-      "name": "Riddle Town Hunt 2",
-      "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
-      },
+      "name": "Replaced End-of-Life (EOL) F5 LTM devices.",
       "isActive": false,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "Leading the project from planning to execution, while ensuring seamless maintenance and troubleshooting for optimal performance",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
-      ],
-      "url": "https://rth2.gcxstudio.cn/"
+        "👌 EOL Hardware Replacement – Led the upgrade of legacy F5 LTM devices to ensure continued reliability and support.",
+        "🚀 Project Leadership – Successfully managed the migration, minimizing downtime while handling over 5 million active connections.",
+        "😊 Ongoing Maintenance – Implemented best practices for maintaining and optimizing the new F5 LTM infrastructure."
+      ]
+    },
+
+    {
+      "name": "Rearchitected Public to Private P2P Core",
+      "isActive": false,
+      "description": "Redesigned the P2P core network by transitioning from public to private infrastructure, enhancing security, optimizing IP resource utilization, and improving overall network efficiency.",
+      "highlights": [
+        "👌 Enhanced Security – Migrated to a private P2P core to minimize exposure to external threats and unauthorized access.",
+        "🎯 Optimized IP Utilization – Reclaimed public IP space, ensuring better allocation and management of network resources.",
+        "🚀 Future-Ready Infrastructure – Built a scalable and adaptable network foundation to support long-term growth and evolving business needs."
+      ]
+    },
+
+    {
+      "name": "ISP Core and Corporte EX Switch Replacment",
+      "isActive": false,
+      "description": "Led the replacement of ISP core and corporate EX switches, enhancing network performance, reliability, and scalability while ensuring minimal downtime.",
+      "highlights": [
+        "🚀 Infrastructure Upgrade – Replaced outdated ISP core and corporate EX switches to improve network efficiency and capacity.",
+        "✨ Enhanced Performance & Reliability – Optimized switching architecture for faster data processing and reduced network congestion.",
+        "😊 Minimal Downtime Implementation – Executed the transition with careful planning to ensure seamless migration and business continuity."
+      ]
+    },
+
+    {
+      "name": "Performed Juniper MX, EX, SRX JunOS Upgrades across the entire IP Core Network",
+      "isActive": false,
+      "description": "Led the replacement of ISP core and corporate EX switches, enhancing network performance, reliability, and scalability while ensuring minimal downtime.",
+      "highlights": [
+        "👌 Comprehensive Network Upgrade – Upgraded JunOS on Juniper MX, EX, and SRX devices to ensure uniformity and optimal functionality.",
+        "✨ Enhanced Security & Stability – Applied the latest firmware updates to mitigate vulnerabilities and improve system resilience.",
+        "😊 Minimal Downtime Execution – Strategically planned and implemented upgrades to maintain uninterrupted network operations."
+      ]
+    },
+
+    {
+      "name": "Support in the deployment of Juniper Services Insight (JSI),",
+      "isActive": false,
+      "description": "Provided key support in the deployment of Juniper Services Insight (JSI), enhancing network monitoring, analytics, and proactive issue resolution.",
+      "highlights": [
+        "🚀 Deployment Assistance – Assisted in configuring and integrating JSI into the network for advanced service analytics.",
+        "✨ Enhanced Network Visibility – Enabled predictive analysis to improve performance and reliability.",
+        "😊 Proactive Issue Resolution – Helped implement automated alerts and insights to detect and prevent potential failures."
+      ]
+    },
+
+    {
+      "name": "Led capacity management and forecasting",
+      "isActive": false,
+      "description": "Led capacity management and forecasting efforts to optimize network resources, ensure scalability, and prevent future bottlenecks.",
+      "highlights": [
+        "✨ Resource Optimization – Monitored and managed network capacity to ensure efficient use of existing resources and prevent overutilization.",
+        "🎯 Forecasting Growth – Analyzed historical data to predict future capacity needs, enabling proactive planning for network expansion.",
+        "😊 Scalability Planning – Ensured that the network infrastructure is scalable and can accommodate future increases in traffic and demand."
+      ]
     }
   ]
 }
